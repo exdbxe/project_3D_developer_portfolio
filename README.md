@@ -32,7 +32,7 @@
 
 1. ⚙️ [Tech Stack](#tech-stack)
 2. 🤸 [Quick Start](#quick-start)
-3. 🤖 [Snippet](#snippet)
+3. 🤖 [Snippets](#snippets)
 
 
 
